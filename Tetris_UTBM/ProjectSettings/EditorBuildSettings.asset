@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 778edd8723544f04e966b87515b3b442
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 820b76e34cdcbe64a91e385047c7020a
+  - enabled: 1
+    path: Assets/Scenes/TC1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TC2.unity
+    guid: a9b2cd159158072419bbfbfdd12eddd4
+  - enabled: 1
+    path: Assets/Scenes/ComputerScienceYear1.unity
+    guid: a3e78a369ee3b43478d9e7dfbca9caee
+  - enabled: 1
+    path: "Assets/Scenes/TC2 - r\xE8gles.unity"
+    guid: 1eadb1b7ef317d541950845f3c3608a6
+  - enabled: 1
+    path: "Assets/Scenes/ComputerScienceYear1 - r\xE8gles.unity"
+    guid: 4376ee920793207448766c15a186eaee
+  - enabled: 1
+    path: Assets/Scenes/TC1 - Niveau 1.unity
+    guid: bf363813b52d328429a060ea840cea97
+  - enabled: 1
+    path: "Assets/Scenes/Fili\xE8re - choix 1e fili\xE8re.unity"
+    guid: 496c7c3a54451d24db70632f9abdbf25
+  - enabled: 1
+    path: "Assets/Scenes/Fili\xE8re - choix 2e fili\xE8re.unity"
+    guid: f0513ddbd4d75ad4f9f13e8ec24a1676
+  - enabled: 1
+    path: "Assets/Scenes/Fili\xE8re - R\xE8gles.unity"
+    guid: f4640b6f4178334448d7122919a344da
+  - enabled: 1
+    path: "Assets/Scenes/Fili\xE8re.unity"
+    guid: e5707b69cbef5074db5ac038886ca177
+  - enabled: 1
+    path: Assets/Scenes/FinishedGame.unity
+    guid: e74b879c018dd764d81d9cb9e42c9c3b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 25373ba8857f97f4aa3a0a2447664107, type: 2}
